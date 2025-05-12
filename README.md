@@ -1,10 +1,6 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-NAME :JAISREE B
-
-REG NO:212224230100
-
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
